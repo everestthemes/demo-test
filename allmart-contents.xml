@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9" created="2026-01-22 15:30" -->
+	<!-- generator="WordPress/6.9" created="2026-01-23 03:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>All Mart</title>
 	<link>https://ecommerce.everestthemes.com/allmart</link>
 	<description></description>
-	<pubDate>Thu, 22 Jan 2026 15:30:04 +0000</pubDate>
+	<pubDate>Fri, 23 Jan 2026 03:59:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://ecommerce.everestthemes.com/</wp:base_site_url>
@@ -411,39 +411,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:1200;s:4:"file";s:27:"woocommerce-placeholder.png";s:8:"filesize";i:48149;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:35:"woocommerce-placeholder-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12321;}s:5:"large";a:5:{s:4:"file";s:37:"woocommerce-placeholder-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:90808;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"woocommerce-placeholder-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4209;}s:12:"medium_large";a:5:{s:4:"file";s:35:"woocommerce-placeholder-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:56643;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[allmart-logo]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/allmart-logo/</link>
-		<pubDate>Wed, 12 Nov 2025 08:09:58 +0000</pubDate>
-		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/allmart-logo.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-12 08:09:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-12 08:09:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-12 08:09:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-12 08:09:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[allmart-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/allmart-logo.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/11/allmart-logo.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:347;s:6:"height";i:155;s:4:"file";s:25:"/2025/11/allmart-logo.svg";s:5:"sizes";a:9:{s:9:"thumbnail";a:5:{s:5:"width";s:3:"150";s:6:"height";d:67;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:6:"medium";a:5:{s:5:"width";s:3:"300";s:6:"height";d:134;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:12:"medium_large";a:5:{s:5:"width";s:3:"768";s:6:"height";d:343;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:5:"large";a:5:{s:5:"width";s:4:"1024";s:6:"height";d:457;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"1536x1536";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"2048x2048";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:21:"woocommerce_thumbnail";a:6:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:29:"woocommerce_gallery_thumbnail";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"allmart-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1701,6 +1668,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Product-30]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/?attachment_id=282</link>
+		<pubDate>Mon, 17 Nov 2025 06:33:11 +0000</pubDate>
+		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/Product-30.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>282</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-17 06:33:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-17 06:33:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-17 06:33:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-17 06:33:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[product-30]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>278</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/Product-30.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/11/Product-30.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:960;s:6:"height";i:960;s:4:"file";s:23:"2025/11/Product-30.webp";s:8:"filesize";i:11398;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:23:"Product-30-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3924;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"Product-30-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1424;}s:12:"medium_large";a:5:{s:4:"file";s:23:"Product-30-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11552;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:23:"Product-30-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3924;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:23:"Product-30-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8930;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:23:"Product-30-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:830;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Shop]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/shop/</link>
 		<pubDate>Tue, 22 Jul 2025 13:32:27 +0000</pubDate>
@@ -1819,6 +1819,112 @@
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Checkout]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/checkout/</link>
+		<pubDate>Tue, 22 Jul 2025 13:32:27 +0000</pubDate>
+		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/checkout/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:woocommerce/checkout -->
+<div class="wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading"><!-- wp:woocommerce/checkout-fields-block -->
+<div class="wp-block-woocommerce-checkout-fields-block"><!-- wp:woocommerce/checkout-express-payment-block -->
+<div class="wp-block-woocommerce-checkout-express-payment-block"></div>
+<!-- /wp:woocommerce/checkout-express-payment-block -->
+
+<!-- wp:woocommerce/checkout-contact-information-block -->
+<div class="wp-block-woocommerce-checkout-contact-information-block"></div>
+<!-- /wp:woocommerce/checkout-contact-information-block -->
+
+<!-- wp:woocommerce/checkout-shipping-method-block -->
+<div class="wp-block-woocommerce-checkout-shipping-method-block"></div>
+<!-- /wp:woocommerce/checkout-shipping-method-block -->
+
+<!-- wp:woocommerce/checkout-pickup-options-block -->
+<div class="wp-block-woocommerce-checkout-pickup-options-block"></div>
+<!-- /wp:woocommerce/checkout-pickup-options-block -->
+
+<!-- wp:woocommerce/checkout-shipping-address-block -->
+<div class="wp-block-woocommerce-checkout-shipping-address-block"></div>
+<!-- /wp:woocommerce/checkout-shipping-address-block -->
+
+<!-- wp:woocommerce/checkout-billing-address-block -->
+<div class="wp-block-woocommerce-checkout-billing-address-block"></div>
+<!-- /wp:woocommerce/checkout-billing-address-block -->
+
+<!-- wp:woocommerce/checkout-shipping-methods-block -->
+<div class="wp-block-woocommerce-checkout-shipping-methods-block"></div>
+<!-- /wp:woocommerce/checkout-shipping-methods-block -->
+
+<!-- wp:woocommerce/checkout-payment-block -->
+<div class="wp-block-woocommerce-checkout-payment-block"></div>
+<!-- /wp:woocommerce/checkout-payment-block -->
+
+<!-- wp:woocommerce/checkout-additional-information-block -->
+<div class="wp-block-woocommerce-checkout-additional-information-block"></div>
+<!-- /wp:woocommerce/checkout-additional-information-block -->
+
+<!-- wp:woocommerce/checkout-order-note-block -->
+<div class="wp-block-woocommerce-checkout-order-note-block"></div>
+<!-- /wp:woocommerce/checkout-order-note-block -->
+
+<!-- wp:woocommerce/checkout-terms-block -->
+<div class="wp-block-woocommerce-checkout-terms-block"></div>
+<!-- /wp:woocommerce/checkout-terms-block -->
+
+<!-- wp:woocommerce/checkout-actions-block -->
+<div class="wp-block-woocommerce-checkout-actions-block"></div>
+<!-- /wp:woocommerce/checkout-actions-block --></div>
+<!-- /wp:woocommerce/checkout-fields-block -->
+
+<!-- wp:woocommerce/checkout-totals-block -->
+<div class="wp-block-woocommerce-checkout-totals-block"><!-- wp:woocommerce/checkout-order-summary-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-block"><!-- wp:woocommerce/checkout-order-summary-cart-items-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-cart-items-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-cart-items-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-coupon-form-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-coupon-form-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-coupon-form-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-subtotal-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-subtotal-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-subtotal-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-fee-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-fee-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-fee-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-discount-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-discount-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-discount-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-shipping-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-shipping-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-shipping-block -->
+
+<!-- wp:woocommerce/checkout-order-summary-taxes-block -->
+<div class="wp-block-woocommerce-checkout-order-summary-taxes-block"></div>
+<!-- /wp:woocommerce/checkout-order-summary-taxes-block --></div>
+<!-- /wp:woocommerce/checkout-order-summary-block --></div>
+<!-- /wp:woocommerce/checkout-totals-block --></div>
+<!-- /wp:woocommerce/checkout -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2025-07-22 13:32:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-07-22 13:32:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-07-22 13:32:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-22 13:32:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[checkout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2013,39 +2119,6 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Product-30]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/?attachment_id=282</link>
-		<pubDate>Mon, 17 Nov 2025 06:33:11 +0000</pubDate>
-		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/Product-30.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>282</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-17 06:33:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-17 06:33:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-17 06:33:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-17 06:33:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[product-30]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>278</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/2025/11/Product-30.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/11/Product-30.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:960;s:6:"height";i:960;s:4:"file";s:23:"2025/11/Product-30.webp";s:8:"filesize";i:11398;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:23:"Product-30-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3924;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"Product-30-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1424;}s:12:"medium_large";a:5:{s:4:"file";s:23:"Product-30-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11552;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:23:"Product-30-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3924;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:23:"Product-30-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8930;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:23:"Product-30-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:830;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Product-31]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/?attachment_id=283</link>
@@ -2587,112 +2660,6 @@
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/checkout/</link>
-		<pubDate>Tue, 22 Jul 2025 13:32:27 +0000</pubDate>
-		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/checkout -->
-<div class="wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading"><!-- wp:woocommerce/checkout-fields-block -->
-<div class="wp-block-woocommerce-checkout-fields-block"><!-- wp:woocommerce/checkout-express-payment-block -->
-<div class="wp-block-woocommerce-checkout-express-payment-block"></div>
-<!-- /wp:woocommerce/checkout-express-payment-block -->
-
-<!-- wp:woocommerce/checkout-contact-information-block -->
-<div class="wp-block-woocommerce-checkout-contact-information-block"></div>
-<!-- /wp:woocommerce/checkout-contact-information-block -->
-
-<!-- wp:woocommerce/checkout-shipping-method-block -->
-<div class="wp-block-woocommerce-checkout-shipping-method-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-method-block -->
-
-<!-- wp:woocommerce/checkout-pickup-options-block -->
-<div class="wp-block-woocommerce-checkout-pickup-options-block"></div>
-<!-- /wp:woocommerce/checkout-pickup-options-block -->
-
-<!-- wp:woocommerce/checkout-shipping-address-block -->
-<div class="wp-block-woocommerce-checkout-shipping-address-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-address-block -->
-
-<!-- wp:woocommerce/checkout-billing-address-block -->
-<div class="wp-block-woocommerce-checkout-billing-address-block"></div>
-<!-- /wp:woocommerce/checkout-billing-address-block -->
-
-<!-- wp:woocommerce/checkout-shipping-methods-block -->
-<div class="wp-block-woocommerce-checkout-shipping-methods-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-methods-block -->
-
-<!-- wp:woocommerce/checkout-payment-block -->
-<div class="wp-block-woocommerce-checkout-payment-block"></div>
-<!-- /wp:woocommerce/checkout-payment-block -->
-
-<!-- wp:woocommerce/checkout-additional-information-block -->
-<div class="wp-block-woocommerce-checkout-additional-information-block"></div>
-<!-- /wp:woocommerce/checkout-additional-information-block -->
-
-<!-- wp:woocommerce/checkout-order-note-block -->
-<div class="wp-block-woocommerce-checkout-order-note-block"></div>
-<!-- /wp:woocommerce/checkout-order-note-block -->
-
-<!-- wp:woocommerce/checkout-terms-block -->
-<div class="wp-block-woocommerce-checkout-terms-block"></div>
-<!-- /wp:woocommerce/checkout-terms-block -->
-
-<!-- wp:woocommerce/checkout-actions-block -->
-<div class="wp-block-woocommerce-checkout-actions-block"></div>
-<!-- /wp:woocommerce/checkout-actions-block --></div>
-<!-- /wp:woocommerce/checkout-fields-block -->
-
-<!-- wp:woocommerce/checkout-totals-block -->
-<div class="wp-block-woocommerce-checkout-totals-block"><!-- wp:woocommerce/checkout-order-summary-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-block"><!-- wp:woocommerce/checkout-order-summary-cart-items-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-cart-items-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-cart-items-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-coupon-form-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-coupon-form-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-coupon-form-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-subtotal-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-subtotal-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-subtotal-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-fee-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-fee-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-fee-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-discount-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-discount-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-discount-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-shipping-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-shipping-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-shipping-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-taxes-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-taxes-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-taxes-block --></div>
-<!-- /wp:woocommerce/checkout-order-summary-block --></div>
-<!-- /wp:woocommerce/checkout-totals-block --></div>
-<!-- /wp:woocommerce/checkout -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-22 13:32:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-22 13:32:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-22 13:32:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-22 13:32:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[My account]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/my-account/</link>
@@ -5919,6 +5886,106 @@ Designed for Efficiency and Safety: Provides fast charging with ActiveShield tec
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[25W Phone Super Fast Charger - 20W]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/product/25w-phone-super-fast-charger/?attribute_watt=20W</link>
+		<pubDate>Mon, 17 Nov 2025 10:18:20 +0000</pubDate>
+		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/?post_type=product_variation&#038;p=316</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Watt: 20W]]></excerpt:encoded>
+		<wp:post_id>316</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-17 10:18:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-17 10:18:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-17 10:22:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-17 10:22:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[25w-phone-super-fast-charger-20w]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>311</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_watt]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20W]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10.3.5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[inter;normal;400;100%;U+0-10FFFF]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/internormal400100u0-10ffff/</link>
 		<pubDate>Thu, 06 Nov 2025 15:11:24 +0000</pubDate>
@@ -6351,105 +6418,29 @@ Designed for Efficiency and Safety: Provides fast charging with ActiveShield tec
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[25W Phone Super Fast Charger - 20W]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/product/25w-phone-super-fast-charger/?attribute_watt=20W</link>
-		<pubDate>Mon, 17 Nov 2025 10:18:20 +0000</pubDate>
+		<title><![CDATA[montserrat;italic;500;100%;U+0-10FFFF]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/montserratitalic500100u0-10ffff/</link>
+		<pubDate>Thu, 06 Nov 2025 15:11:26 +0000</pubDate>
 		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/?post_type=product_variation&#038;p=316</guid>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/06/montserratitalic500100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Watt: 20W]]></excerpt:encoded>
-		<wp:post_id>316</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-17 10:18:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-17 10:18:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-17 10:22:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-17 10:22:47]]></wp:post_modified_gmt>
+		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"500","src":"https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-italic.svg"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-06 15:11:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-06 15:11:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-06 15:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-06 15:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[25w-phone-super-fast-charger-20w]]></wp:post_name>
+		<wp:post_name><![CDATA[montserratitalic500100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>311</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_parent>18</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_watt]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20W]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10.3.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+														</item>
 					<item>
 		<title><![CDATA[25W Phone Super Fast Charger - 30W]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/product/25w-phone-super-fast-charger/?attribute_watt=30W</link>
@@ -6599,26 +6590,26 @@ Designed for Efficiency and Safety: Provides fast charging with ActiveShield tec
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[montserrat;italic;500;100%;U+0-10FFFF]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/montserratitalic500100u0-10ffff/</link>
-		<pubDate>Thu, 06 Nov 2025 15:11:26 +0000</pubDate>
+		<title><![CDATA[Overpass]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/overpass/</link>
+		<pubDate>Thu, 06 Nov 2025 15:11:24 +0000</pubDate>
 		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/06/montserratitalic500100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/06/overpass/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Montserrat","fontStyle":"italic","fontWeight":"500","src":"https://ecommerce.everestthemes.com/allmart/wp-content/uploads/sites/4/fonts/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aXp-p7K5ILg.woff2","preview":"https://s.w.org/images/fonts/wp-6.7/previews/montserrat/montserrat-500-italic.svg"}]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-06 15:11:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-06 15:11:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-06 15:11:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-06 15:11:26]]></wp:post_modified_gmt>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-06 15:11:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-06 15:11:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-06 15:11:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-06 15:11:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[montserratitalic500100u0-10ffff]]></wp:post_name>
+		<wp:post_name><![CDATA[overpass]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>18</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
@@ -7091,30 +7082,6 @@ Designed for Efficiency and Safety: Provides fast charging with ActiveShield tec
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="allmart"><![CDATA[allmart]]></category>
 						</item>
-					<item>
-		<title><![CDATA[Overpass]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/overpass/</link>
-		<pubDate>Thu, 06 Nov 2025 15:11:24 +0000</pubDate>
-		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/06/overpass/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"Overpass, sans-serif","preview":"https://s.w.org/images/fonts/wp-6.7/previews/overpass/overpass.svg"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-06 15:11:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-06 15:11:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-06 15:11:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-06 15:11:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[overpass]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_family]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Albert Sans]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/2025/11/06/albert-sans/</link>
@@ -8645,102 +8612,6 @@ Designed for Efficiency and Safety: Provides fast charging with ActiveShield tec
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Shop Filter]]></title>
-		<link>https://ecommerce.everestthemes.com/allmart/2025/11/14/shop-filter/</link>
-		<pubDate>Fri, 14 Nov 2025 04:30:41 +0000</pubDate>
-		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/14/shop-filter/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Main Product Filter"},"style":{"spacing":{"blockGap":"24px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:woocommerce/product-filters {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
-<div class="wp-block-woocommerce-product-filters wc-block-product-filters" style="--wc-product-filters-text-color:#111;--wc-product-filters-background-color:#fff;--wc-product-filter-block-spacing:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"margin":{"top":"0","bottom":"0"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"24"} -->
-<h2 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0">Filters</h2>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-filter-active -->
-<div class="wp-block-woocommerce-product-filter-active"><!-- wp:woocommerce/product-filter-removable-chips -->
-<div class="wp-block-woocommerce-product-filter-removable-chips wc-block-product-filter-removable-chips"></div>
-<!-- /wp:woocommerce/product-filter-removable-chips -->
-
-<!-- wp:woocommerce/product-filter-clear-button -->
-<!-- wp:buttons {"layout":{"type":"flex","verticalAlignment":"stretched"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center","width":100,"className":"wc-block-product-filter-clear-button is-style-outline","style":{"border":{"width":"1px"},"typography":{"textDecoration":"none"},"outline":"none","fontSize":"medium","spacing":{"padding":{"left":"8px","right":"8px","top":"5px","bottom":"5px"}}}} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 wc-block-product-filter-clear-button is-style-outline"><a class="wp-block-button__link has-text-align-center wp-element-button" style="border-width:1px;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;text-decoration:none">Clear filters</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-<!-- /wp:woocommerce/product-filter-clear-button --></div>
-<!-- /wp:woocommerce/product-filter-active -->
-
-<!-- wp:woocommerce/product-filter-taxonomy -->
-<div class="wp-block-woocommerce-product-filter-taxonomy"><!-- wp:woocommerce/product-filter-checkbox-list -->
-<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
-<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
-<!-- /wp:woocommerce/product-filter-taxonomy -->
-
-<!-- wp:woocommerce/product-filter-price -->
-<div class="wp-block-woocommerce-product-filter-price"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
-<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Price</h3>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-filter-price-slider -->
-<div class="wp-block-woocommerce-product-filter-price-slider wc-block-product-filter-price-slider"></div>
-<!-- /wp:woocommerce/product-filter-price-slider --></div>
-<!-- /wp:woocommerce/product-filter-price -->
-
-<!-- wp:woocommerce/product-filter-rating -->
-<div class="wp-block-woocommerce-product-filter-rating"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
-<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Rating</h3>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-filter-checkbox-list -->
-<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
-<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
-<!-- /wp:woocommerce/product-filter-rating -->
-
-<!-- wp:woocommerce/product-filter-attribute -->
-<div class="wp-block-woocommerce-product-filter-attribute"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
-<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Color</h3>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-filter-checkbox-list -->
-<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
-<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
-<!-- /wp:woocommerce/product-filter-attribute -->
-
-<!-- wp:woocommerce/product-filter-status -->
-<div class="wp-block-woocommerce-product-filter-status"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
-<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Status</h3>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-filter-checkbox-list -->
-<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
-<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
-<!-- /wp:woocommerce/product-filter-status --></div>
-<!-- /wp:woocommerce/product-filters --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>261</wp:post_id>
-		<wp:post_date><![CDATA[2025-11-14 04:30:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-11-14 04:30:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-11-14 04:32:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-11-14 04:32:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop-filter]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="allmart"><![CDATA[allmart]]></category>
-		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Contact Form]]></title>
 		<link>https://ecommerce.everestthemes.com/allmart/?post_type=wpcf7_contact_form&#038;p=253</link>
 		<pubDate>Thu, 13 Nov 2025 16:27:45 +0000</pubDate>
@@ -8876,6 +8747,102 @@ This email is a receipt for your contact form submission on our website ([_site_
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_hash]]></wp:meta_key>
 		<wp:meta_value><![CDATA[373299409eb7b0558b2514b1b3befd368839a7e114ab21981cd18a0d42891339]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Shop Filter]]></title>
+		<link>https://ecommerce.everestthemes.com/allmart/2025/11/14/shop-filter/</link>
+		<pubDate>Fri, 14 Nov 2025 04:30:41 +0000</pubDate>
+		<dc:creator><![CDATA[prabinjha2074@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://ecommerce.everestthemes.com/allmart/2025/11/14/shop-filter/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Main Product Filter"},"style":{"spacing":{"blockGap":"24px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:woocommerce/product-filters {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}}} -->
+<div class="wp-block-woocommerce-product-filters wc-block-product-filters" style="--wc-product-filters-text-color:#111;--wc-product-filters-background-color:#fff;--wc-product-filter-block-spacing:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"margin":{"top":"0","bottom":"0"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"24"} -->
+<h2 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0">Filters</h2>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-filter-active -->
+<div class="wp-block-woocommerce-product-filter-active"><!-- wp:woocommerce/product-filter-removable-chips -->
+<div class="wp-block-woocommerce-product-filter-removable-chips wc-block-product-filter-removable-chips"></div>
+<!-- /wp:woocommerce/product-filter-removable-chips -->
+
+<!-- wp:woocommerce/product-filter-clear-button -->
+<!-- wp:buttons {"layout":{"type":"flex","verticalAlignment":"stretched"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center","width":100,"className":"wc-block-product-filter-clear-button is-style-outline","style":{"border":{"width":"1px"},"typography":{"textDecoration":"none"},"outline":"none","fontSize":"medium","spacing":{"padding":{"left":"8px","right":"8px","top":"5px","bottom":"5px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 wc-block-product-filter-clear-button is-style-outline"><a class="wp-block-button__link has-text-align-center wp-element-button" style="border-width:1px;padding-top:5px;padding-right:8px;padding-bottom:5px;padding-left:8px;text-decoration:none">Clear filters</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+<!-- /wp:woocommerce/product-filter-clear-button --></div>
+<!-- /wp:woocommerce/product-filter-active -->
+
+<!-- wp:woocommerce/product-filter-taxonomy -->
+<div class="wp-block-woocommerce-product-filter-taxonomy"><!-- wp:woocommerce/product-filter-checkbox-list -->
+<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
+<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
+<!-- /wp:woocommerce/product-filter-taxonomy -->
+
+<!-- wp:woocommerce/product-filter-price -->
+<div class="wp-block-woocommerce-product-filter-price"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
+<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Price</h3>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-filter-price-slider -->
+<div class="wp-block-woocommerce-product-filter-price-slider wc-block-product-filter-price-slider"></div>
+<!-- /wp:woocommerce/product-filter-price-slider --></div>
+<!-- /wp:woocommerce/product-filter-price -->
+
+<!-- wp:woocommerce/product-filter-rating -->
+<div class="wp-block-woocommerce-product-filter-rating"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
+<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Rating</h3>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-filter-checkbox-list -->
+<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
+<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
+<!-- /wp:woocommerce/product-filter-rating -->
+
+<!-- wp:woocommerce/product-filter-attribute -->
+<div class="wp-block-woocommerce-product-filter-attribute"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
+<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Color</h3>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-filter-checkbox-list -->
+<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
+<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
+<!-- /wp:woocommerce/product-filter-attribute -->
+
+<!-- wp:woocommerce/product-filter-status -->
+<div class="wp-block-woocommerce-product-filter-status"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"bottom":"0.625rem","top":"0"}}},"fontSize":"24"} -->
+<h3 class="wp-block-heading has-24-font-size" style="margin-top:0;margin-bottom:0.625rem">Status</h3>
+<!-- /wp:heading -->
+
+<!-- wp:woocommerce/product-filter-checkbox-list -->
+<div class="wp-block-woocommerce-product-filter-checkbox-list wc-block-product-filter-checkbox-list"></div>
+<!-- /wp:woocommerce/product-filter-checkbox-list --></div>
+<!-- /wp:woocommerce/product-filter-status --></div>
+<!-- /wp:woocommerce/product-filters --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>261</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-14 04:30:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-14 04:30:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-14 04:32:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-14 04:32:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[shop-filter]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="allmart"><![CDATA[allmart]]></category>
+		<category domain="wp_template_part_area" nicename="uncategorized"><![CDATA[uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
