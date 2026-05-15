@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.9.4" created="2026-05-14 11:59" -->
+	<!-- generator="WordPress/6.9.4" created="2026-05-15 04:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fitness Pro</title>
 	<link>https://fitnesspro.everestthemes.com</link>
 	<description>Premium Fitness Gear &#38; Nutrition</description>
-	<pubDate>Thu, 14 May 2026 11:59:21 +0000</pubDate>
+	<pubDate>Fri, 15 May 2026 04:53:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://fitnesspro.everestthemes.com</wp:base_site_url>
@@ -398,7 +398,7 @@
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
-	<url>https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light.svg</url>
+	<url>https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light-100x100.webp</url>
 	<title>Fitness Pro</title>
 	<link>https://fitnesspro.everestthemes.com</link>
 	<width>32</width>
@@ -535,72 +535,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1168;s:6:"height";i:784;s:4:"file";s:23:"2026/05/blog-img-1.webp";s:8:"filesize";i:36336;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:23:"blog-img-1-300x201.webp";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5618;}s:5:"large";a:5:{s:4:"file";s:24:"blog-img-1-1024x687.webp";s:5:"width";i:1024;s:6:"height";i:687;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:27104;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"blog-img-1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2358;}s:12:"medium_large";a:5:{s:4:"file";s:23:"blog-img-1-768x516.webp";s:5:"width";i:768;s:6:"height";i:516;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18898;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:23:"blog-img-1-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5712;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:23:"blog-img-1-600x403.webp";s:5:"width";i:600;s:6:"height";i:403;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14024;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:23:"blog-img-1-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1414;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[fitness-pro-logo-light]]></title>
-		<link>https://fitnesspro.everestthemes.com/fitness-pro-logo-light/</link>
-		<pubDate>Wed, 13 May 2026 08:31:56 +0000</pubDate>
-		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
-		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-13 08:31:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-13 08:31:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-13 08:31:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-13 08:31:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fitness-pro-logo-light]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/05/fitness-pro-logo-light.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:320;s:6:"height";i:320;s:4:"file";s:35:"/2026/05/fitness-pro-logo-light.svg";s:5:"sizes";a:9:{s:9:"thumbnail";a:5:{s:5:"width";s:3:"150";s:6:"height";d:150;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:6:"medium";a:5:{s:5:"width";s:3:"300";s:6:"height";d:300;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:12:"medium_large";a:5:{s:5:"width";s:3:"768";s:6:"height";d:768;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:5:"large";a:5:{s:5:"width";s:4:"1024";s:6:"height";d:1024;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"1536x1536";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"2048x2048";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:21:"woocommerce_thumbnail";a:6:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:29:"woocommerce_gallery_thumbnail";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:26:"fitness-pro-logo-light.svg";s:9:"mime-type";s:13:"image/svg+xml";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[fitness-pro-logo]]></title>
-		<link>https://fitnesspro.everestthemes.com/fitness-pro-logo/</link>
-		<pubDate>Wed, 13 May 2026 08:31:56 +0000</pubDate>
-		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
-		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>142</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-13 08:31:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-13 08:31:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-13 08:31:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-13 08:31:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fitness-pro-logo]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/05/fitness-pro-logo.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:320;s:6:"height";i:320;s:4:"file";s:29:"/2026/05/fitness-pro-logo.svg";s:5:"sizes";a:9:{s:9:"thumbnail";a:5:{s:5:"width";s:3:"150";s:6:"height";d:150;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:6:"medium";a:5:{s:5:"width";s:3:"300";s:6:"height";d:300;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:12:"medium_large";a:5:{s:5:"width";s:3:"768";s:6:"height";d:768;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:5:"large";a:5:{s:5:"width";s:4:"1024";s:6:"height";d:1024;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"1536x1536";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"2048x2048";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:21:"woocommerce_thumbnail";a:6:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:29:"woocommerce_gallery_thumbnail";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:20:"fitness-pro-logo.svg";s:9:"mime-type";s:13:"image/svg+xml";}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3046,6 +2980,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[41]]></title>
+		<link>https://fitnesspro.everestthemes.com/?attachment_id=225</link>
+		<pubDate>Wed, 13 May 2026 10:06:04 +0000</pubDate>
+		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
+		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/41.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>225</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-13 10:06:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-13 10:06:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-13 10:06:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-13 10:06:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[41]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>150</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/41.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/05/41.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:15:"2026/05/41.webp";s:8:"filesize";i:18538;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"41-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2314;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"41-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:958;}s:12:"medium_large";a:5:{s:4:"file";s:15:"41-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10564;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"41-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2314;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"41-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6998;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"41-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:544;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[78]]></title>
+		<link>https://fitnesspro.everestthemes.com/?attachment_id=295</link>
+		<pubDate>Wed, 13 May 2026 15:32:04 +0000</pubDate>
+		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
+		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/78.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>295</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-13 15:32:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-13 15:32:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-13 15:32:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-13 15:32:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[78]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>236</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/78.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/05/78.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2026/05/78.webp";s:8:"filesize";i:7098;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"78-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2106;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"78-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:994;}s:12:"medium_large";a:5:{s:4:"file";s:15:"78-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6458;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"78-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2106;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"78-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4792;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"78-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:652;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>https://fitnesspro.everestthemes.com/?page_id=3</link>
 		<pubDate>Tue, 05 May 2026 05:17:59 +0000</pubDate>
@@ -4015,72 +4015,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[41]]></title>
-		<link>https://fitnesspro.everestthemes.com/?attachment_id=225</link>
-		<pubDate>Wed, 13 May 2026 10:06:04 +0000</pubDate>
-		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
-		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/41.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>225</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-13 10:06:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-13 10:06:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-13 10:06:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-13 10:06:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[41]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>150</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/41.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/05/41.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:15:"2026/05/41.webp";s:8:"filesize";i:18538;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"41-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2314;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"41-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:958;}s:12:"medium_large";a:5:{s:4:"file";s:15:"41-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10564;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"41-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2314;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"41-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6998;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"41-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:544;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[78]]></title>
-		<link>https://fitnesspro.everestthemes.com/?attachment_id=295</link>
-		<pubDate>Wed, 13 May 2026 15:32:04 +0000</pubDate>
-		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
-		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/78.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>295</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-13 15:32:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-13 15:32:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-13 15:32:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-13 15:32:04]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[78]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>236</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/78.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/05/78.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:800;s:4:"file";s:15:"2026/05/78.webp";s:8:"filesize";i:7098;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:15:"78-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2106;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"78-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:994;}s:12:"medium_large";a:5:{s:4:"file";s:15:"78-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6458;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:15:"78-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2106;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:15:"78-600x600.webp";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4792;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:15:"78-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:652;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[76]]></title>
 		<link>https://fitnesspro.everestthemes.com/?attachment_id=296</link>
 		<pubDate>Wed, 13 May 2026 15:32:04 +0000</pubDate>
@@ -4180,39 +4114,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[5star-review]]></title>
-		<link>https://fitnesspro.everestthemes.com/5star-review/</link>
-		<pubDate>Thu, 14 May 2026 09:29:30 +0000</pubDate>
-		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
-		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/5star-review.svg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>351</wp:post_id>
-		<wp:post_date><![CDATA[2026-05-14 09:29:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-05-14 09:29:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-14 09:29:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-14 09:29:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[5star-review]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/5star-review.svg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026/05/5star-review.svg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:160;s:6:"height";i:32;s:4:"file";s:25:"/2026/05/5star-review.svg";s:5:"sizes";a:9:{s:9:"thumbnail";a:5:{s:5:"width";s:3:"150";s:6:"height";d:30;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:6:"medium";a:5:{s:5:"width";s:3:"300";s:6:"height";d:60;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:12:"medium_large";a:5:{s:5:"width";s:3:"768";s:6:"height";d:154;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:5:"large";a:5:{s:5:"width";s:4:"1024";s:6:"height";d:205;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"1536x1536";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"2048x2048";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:21:"woocommerce_thumbnail";a:6:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:29:"woocommerce_gallery_thumbnail";a:5:{s:5:"width";b:0;s:6:"height";d:0;s:4:"crop";b:0;s:4:"file";s:16:"5star-review.svg";s:9:"mime-type";s:13:"image/svg+xml";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[apparel-women-1]]></title>
 		<link>https://fitnesspro.everestthemes.com/apparel-women-1/</link>
 		<pubDate>Thu, 14 May 2026 09:47:13 +0000</pubDate>
@@ -4243,6 +4144,105 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:900;s:6:"height";i:799;s:4:"file";s:28:"2026/05/apparel-women-1.webp";s:8:"filesize";i:16222;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:28:"apparel-women-1-300x266.webp";s:5:"width";i:300;s:6:"height";i:266;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3452;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"apparel-women-1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1704;}s:12:"medium_large";a:5:{s:4:"file";s:28:"apparel-women-1-768x682.webp";s:5:"width";i:768;s:6:"height";i:682;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11492;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:28:"apparel-women-1-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4016;s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:5:{s:4:"file";s:28:"apparel-women-1-600x533.webp";s:5:"width";i:600;s:6:"height";i:533;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8722;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:28:"apparel-women-1-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1126;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[fitness-pro-logo-light]]></title>
+		<link>https://fitnesspro.everestthemes.com/fitness-pro-logo-light/</link>
+		<pubDate>Fri, 15 May 2026 04:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
+		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>373</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-15 04:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-15 04:49:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-15 04:49:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-15 04:49:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fitness-pro-logo-light]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo-light.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/05/fitness-pro-logo-light.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:320;s:6:"height";i:320;s:4:"file";s:35:"2026/05/fitness-pro-logo-light.webp";s:8:"filesize";i:1594;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:35:"fitness-pro-logo-light-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2372;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"fitness-pro-logo-light-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1278;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:35:"fitness-pro-logo-light-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2372;s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:35:"fitness-pro-logo-light-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:898;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[stars-img]]></title>
+		<link>https://fitnesspro.everestthemes.com/stars-img/</link>
+		<pubDate>Fri, 15 May 2026 04:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
+		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/stars-img.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>374</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-15 04:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-15 04:49:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-15 04:49:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-15 04:49:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[stars-img]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/stars-img.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/05/stars-img.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:160;s:6:"height";i:32;s:4:"file";s:22:"2026/05/stars-img.webp";s:8:"filesize";i:1046;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"stars-img-150x32.webp";s:5:"width";i:150;s:6:"height";i:32;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1078;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:21:"stars-img-100x32.webp";s:5:"width";i:100;s:6:"height";i:32;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:810;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[fitness-pro-logo]]></title>
+		<link>https://fitnesspro.everestthemes.com/fitness-pro-logo/</link>
+		<pubDate>Fri, 15 May 2026 04:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[demo-fitnesspro]]></dc:creator>
+		<guid isPermaLink="false">https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>375</wp:post_id>
+		<wp:post_date><![CDATA[2026-05-15 04:49:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-05-15 04:49:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-05-15 04:49:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-15 04:49:15]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fitness-pro-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/fitness-pro-logo.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/05/fitness-pro-logo.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:320;s:6:"height";i:320;s:4:"file";s:29:"2026/05/fitness-pro-logo.webp";s:8:"filesize";i:1584;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"fitness-pro-logo-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2378;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"fitness-pro-logo-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1278;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:29:"fitness-pro-logo-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2378;s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:29:"fitness-pro-logo-100x100.webp";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:890;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10520,7 +10520,7 @@ FeatureDetailWeight CapacityUp to 600 lbs / 272 kg (approx.)Weight Increments10 
 
 <!-- wp:column {"width":"70%"} -->
 <div class="wp-block-column" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:woocommerce/product-collection {"queryId":0,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[33]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":true,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
+<div class="wp-block-group"><!-- wp:woocommerce/product-collection {"queryId":1,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[33]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":true,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:woocommerce/product-template {"className":"product-card-v2"} -->
 <!-- wp:woocommerce/product-image {"showSaleBadge":false,"imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"className":"is-style-image-hover-zoom-effect"} -->
 <!-- wp:woocommerce/product-sale-badge {"align":"right"} /-->
@@ -10576,7 +10576,7 @@ FeatureDetailWeight CapacityUp to 600 lbs / 272 kg (approx.)Weight Increments10 
 
 <!-- wp:column {"width":"70%"} -->
 <div class="wp-block-column" style="flex-basis:70%"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:woocommerce/product-collection {"queryId":1,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[34]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":true,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
+<div class="wp-block-group"><!-- wp:woocommerce/product-collection {"queryId":2,"query":{"perPage":4,"pages":0,"offset":0,"postType":"product","order":"asc","orderBy":"title","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[34]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":true,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"flex","columns":4,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"],"__privatePreviewState":{"isPreview":false,"previewMessage":"Actual products will vary depending on the page being viewed."}} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:woocommerce/product-template {"className":"product-card-v2"} -->
 <!-- wp:woocommerce/product-image {"showSaleBadge":false,"imageSizing":"thumbnail","isDescendentOfQueryLoop":true,"className":"is-style-image-hover-zoom-effect"} -->
 <!-- wp:woocommerce/product-sale-badge {"align":"right"} /-->
@@ -10670,8 +10670,8 @@ https://www.youtube.com/watch?v=IMF98KjalIE
 <!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|small"}}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}},"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":351,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/5star-review.svg" alt="" class="wp-image-351"/></figure>
+<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":374,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/stars-img.webp" alt="" class="wp-image-374"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
@@ -10704,8 +10704,8 @@ https://www.youtube.com/watch?v=IMF98KjalIE
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}},"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":351,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/5star-review.svg" alt="" class="wp-image-351"/></figure>
+<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":374,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/stars-img.webp" alt="" class="wp-image-374"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
@@ -10738,8 +10738,8 @@ https://www.youtube.com/watch?v=IMF98KjalIE
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}},"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":351,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/5star-review.svg" alt="" class="wp-image-351"/></figure>
+<div class="wp-block-group has-card-background-color has-background" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:image {"id":374,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://fitnesspro.everestthemes.com/wp-content/uploads/2026/05/stars-img.webp" alt="" class="wp-image-374"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"textColor":"foreground"} -->
@@ -10946,8 +10946,8 @@ https://www.youtube.com/watch?v=IMF98KjalIE
 		<wp:post_id>285</wp:post_id>
 		<wp:post_date><![CDATA[2026-05-13 12:24:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-05-13 12:24:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-05-14 10:47:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-05-14 10:47:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-05-15 04:52:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-05-15 04:52:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v3]]></wp:post_name>
