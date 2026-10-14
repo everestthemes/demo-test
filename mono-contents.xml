@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.2" created="2026-10-06 13:11" -->
+	<!-- generator="WordPress/7.1.3" created="2026-10-14 07:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mono Theme</title>
 	<link>https://mono.everestthemes.com</link>
 	<description></description>
-	<pubDate>Tue, 06 Oct 2026 13:11:36 +0000</pubDate>
+	<pubDate>Wed, 14 Oct 2026 07:52:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mono.everestthemes.com</wp:base_site_url>
@@ -165,7 +165,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[158]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -246,7 +246,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[146]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -254,7 +254,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -329,7 +329,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[96]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
@@ -337,7 +337,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -371,7 +371,7 @@
 		</wp:termmeta>
 	</wp:term>
 		
-	<generator>https://wordpress.org/?v=7.1.2</generator>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
 
 		<item>
 		<title><![CDATA[blog-img-1]]></title>
@@ -4654,8 +4654,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 07:49:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 07:49:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 11:27:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 11:27:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 16:29:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 16:29:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[unisex-minimalist-fine-knit-everyday-streetwear-fashion-beanie]]></wp:post_name>
@@ -4666,8 +4666,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
+		<category domain="product_cat" nicename="outerwear"><![CDATA[Outerwear]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="unisex-basics"><![CDATA[Unisex Basics]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -4915,8 +4915,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 09:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 09:11:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 11:53:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 11:53:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 16:28:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 16:28:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[features-a-shallow-profile-that-sits-above-or-right-at-the-tops-of]]></wp:post_name>
@@ -4928,7 +4928,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_cat" nicename="mens-wear"><![CDATA[Men's Wear]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_cat" nicename="unisex-basics"><![CDATA[Unisex Basics]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -5191,8 +5190,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>148</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 10:28:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 10:28:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 10:28:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 10:28:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 16:38:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 16:38:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[heavyweight-relaxed-crewneck-t-shirt-wash-denim-jeans]]></wp:post_name>
@@ -5202,8 +5201,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="mens-wear"><![CDATA[Men's Wear]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+										<category domain="product_type" nicename="grouped"><![CDATA[grouped]]></category>
+		<category domain="product_cat" nicename="mens-wear"><![CDATA[Men's Wear]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
@@ -5211,10 +5210,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[152]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -5277,12 +5272,20 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[149,150,151]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_children]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:2:{i:0;i:89;i:1;i:93;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5695,141 +5698,97 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Minimalist Leather Everyday Tote | magnetic closure.]]></title>
-		<link>https://mono.everestthemes.com/product/minimalist-leather-everyday-tote-magnetic-closure/</link>
-		<pubDate>Tue, 06 Oct 2026 12:13:39 +0000</pubDate>
+		<title><![CDATA[About Us]]></title>
+		<link>https://mono.everestthemes.com/about-us/</link>
+		<pubDate>Thu, 08 Oct 2026 03:47:14 +0000</pubDate>
 		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product&#038;p=165</guid>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?page_id=197</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul>
- 	<li>
-<p id="p-rc_076aa5988927af04-86" data-path-to-node="4,0,0"><span data-path-to-node="4,0,0,0"><b data-path-to-node="4,0,0,0" data-index-in-node="0">Design &amp; Concept:</b> Stripped of unnecessary exterior hardware, this tote focuses on silhouette, proportion, and leather texture</span><span data-path-to-node="4,0,0,2">. The structured base allows the bag to stand upright, while the supple side panels drape naturally under the arm</span><span data-path-to-node="4,0,0,4">. Finished with hand-painted raw edges and a minimalist removable leather clochette tag</span><span data-path-to-node="4,0,0,6">.</span></p>
-</li>
- 	<li>
-<p data-path-to-node="4,1,0"><b data-path-to-node="4,1,0" data-index-in-node="0">Interior Architecture:</b> Generous main compartment lined with durable tonal cotton canvas. Features one interior zippered valuables pocket, two slip compartments for phone and cards, and a magnetic snap closure for security.</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,0"><b data-path-to-node="4,2,0" data-index-in-node="0">Specifications:</b></p>
+		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
 
-<ul data-path-to-node="4,2,1">
- 	<li>
-<p data-path-to-node="4,2,1,0,0"><b data-path-to-node="4,2,1,0,0" data-index-in-node="0">Dimensions:</b> 36 cm H × 42 cm W × 14 cm D</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,1,0"><b data-path-to-node="4,2,1,1,0" data-index-in-node="0">Handle Drop:</b> 25.5 cm (10 inches)</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,2,0"><b data-path-to-node="4,2,1,2,0" data-index-in-node="0">Material:</b> 100% full-grain semi-matte cowhide leather</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,3,0"><b data-path-to-node="4,2,1,3,0" data-index-in-node="0">Hardware:</b> Matte black coated metal</p>
-</li>
-</ul>
-</li>
- 	<li>
-<p data-path-to-node="4,3,0"><b data-path-to-node="4,3,0" data-index-in-node="0">Care Instructions:</b> Wipe clean with a soft, dry microfiber cloth. Condition every 6 months with neutral leather balm.</p>
-</li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[<span data-path-to-node="2,1,0,0">A structured matte black leather tote designed with clean lines, reinforced slim shoulder handles, and a detachable tonal leather tag</span><span data-path-to-node="2,1,0,2">. Built to carry everyday essentials, a water bottle, and up to a 15-inch laptop.</span>]]></excerpt:encoded>
-		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-06 12:13:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 12:13:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+<!-- wp:group {"metadata":{"name":"Numbers","categories":["mono"],"patternName":"mono/numbers"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-card-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">30K+</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-style:normal;font-weight:600">Active Users</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-card-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">4.9</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-style:normal;font-weight:600">⭐️ Ratings</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-card-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">100K+</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-style:normal;font-weight:600">Workouts Completed</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-card-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">30K+</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-style:normal;font-weight:600">Active Users</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|small","right":"var:preset|spacing|small"}}},"backgroundColor":"card","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-card-background-color has-background" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--small)"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">4.9</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-style:normal;font-weight:600">⭐️ Ratings</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>197</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-08 03:47:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-08 03:47:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-08 03:51:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-08 03:51:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimalist-leather-everyday-tote-magnetic-closure]]></wp:post_name>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[156]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[158]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5985,238 +5944,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 										<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Header]]></title>
-		<link>https://mono.everestthemes.com/header/</link>
-		<pubDate>Tue, 06 Oct 2026 03:15:31 +0000</pubDate>
-		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/?p=62</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header","patternName":"mono/header-v1","categories":["mono"]},"style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"metadata":{"name":"Notification"},"style":{"spacing":{"padding":{"top":"8px","bottom":"8px"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-background-color has-background" style="padding-top:8px;padding-bottom:8px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center","fontSize":"12px"},"elements":{"link":{"color":{"text":"var:preset|color|light"}}}},"textColor":"light"} -->
-<p class="has-text-align-center has-light-color has-text-color has-link-color" style="font-size:12px;font-style:normal;font-weight:600">Discover the latest Mono collection — thoughtfully designed essentials for effortless, everyday style.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Header Nav"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small","bottom":"var:preset|spacing|xx-small","left":"var:preset|spacing|0","right":"var:preset|spacing|0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xx-small);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--xx-small);padding-left:var(--wp--preset--spacing--0)"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"className":"header-v2"} -->
-<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile header-v2"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"width":"96px","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"spacing":{"margin":{"top":"16px","bottom":"16px"}}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:16px;margin-bottom:16px"><a href="https://mono.everestthemes.com/"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/mono-logo.svg" alt="" style="width:96px;height:auto"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"className":"is-megamenu hide-on-sm","style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group is-megamenu hide-on-sm"><!-- wp:paragraph {"className":"has-inline-img","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0","left":"var:preset|spacing|0","right":"var:preset|spacing|0"}},"elements":{"link":{"color":{"text":"var:preset|color|card-foreground"}}}},"textColor":"card-foreground","fontSize":"16"} -->
-<p class="has-inline-img has-card-foreground-color has-text-color has-link-color has-16-font-size" style="padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--0);font-style:normal;font-weight:700;text-transform:uppercase"><img class="wp-image-876" style="width: 20px;" src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/ic-megamenu.svg" alt=""> Browse Shop</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:navigation {"ref":132,"textColor":"foreground","icon":"menu","customOverlayBackgroundColor":"#f7f7f7","overlayTextColor":"foreground","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"24px"},"@mobile":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:mono/product-search {"containerSize":"small","style":{"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}}} /-->
-
-<!-- wp:woocommerce/customer-account {"displayStyle":"icon_only","iconStyle":"line","iconClass":"wc-block-customer-account__account-icon"} /-->
-
-<!-- wp:woocommerce/mini-cart {"addToCartBehaviour":"open_drawer"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Megamenu","patternName":"mono/megamenu","categories":["mono"]},"className":"is-mega-menu-wrapper","backgroundColor":"card","layout":{"type":"default"}} -->
-<div class="wp-block-group is-mega-menu-wrapper has-card-background-color has-background"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"className":"op-grid op-grid-cols-5 op-mobile-cols-2","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"},"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}}} -->
-<div class="wp-block-columns op-grid op-grid-cols-5 op-mobile-cols-2" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Men's Collection</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">T-Shirts &amp; Polos</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Shirts &amp; Button-Downs</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Denim &amp; Jeans</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Jackets &amp; Outerwear</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Hoodies &amp; Sweatshirts</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Shorts &amp; Trousers</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Suits &amp; Tailoring</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Loungewear &amp; Sleepwear</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Women's Collection</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">Dresses &amp; Jumpsuits</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Tops &amp; Blouses</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Denim &amp; Pants</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Coats &amp; Jackets</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Knitwear &amp; Sweaters</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Skirts &amp; Shorts</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Activewear &amp; Athleisure</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Loungewear &amp; Intimates</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Accessories &amp; Shoes</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">Leather Bags &amp; Totes</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Footwear &amp; Sneakers</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Sunglasses &amp; Eyewear</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Hats &amp; Caps</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Belts &amp; Leather Goods</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Jewelry &amp; Watches</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Scarves &amp; Gloves</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Wallets &amp; Cardholders</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"","className":"op-col-span-2"} -->
-<div class="wp-block-column op-col-span-2"><!-- wp:image {"id":98,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"op-animated animate__fadeInUp","style":{"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}}} -->
-<figure class="wp-block-image size-full has-custom-border op-animated animate__fadeInUp"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/megamenu-img.webp" alt="Mono Clothing Collection" class="wp-image-98" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;aspect-ratio:16/9;object-fit:cover"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|border","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":130,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-9.svg" alt="" class="wp-image-130"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":129,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-8.svg" alt="" class="wp-image-129"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-7.svg" alt="" class="wp-image-128"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":123,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-2.svg" alt="" class="wp-image-123"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":125,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-4.svg" alt="" class="wp-image-125"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":126,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-full"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-5.svg" alt="" class="wp-image-126"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-06 03:15:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-06 03:15:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 09:18:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 09:18:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[header]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
-		<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Blog Alternative]]></title>
 		<link>https://mono.everestthemes.com/blog-alternative/</link>
 		<pubDate>Tue, 06 Oct 2026 03:24:38 +0000</pubDate>
@@ -6318,13 +6045,17 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-link {"label":"Blog","type":"page","id":51,"url":"https://mono.everestthemes.com/blog/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+<!-- /wp:navigation-submenu -->
+
+<!-- wp:navigation-submenu {"label":"Pages","type":"page","url":"#","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Error 404","url":"https://mono.everestthemes.com/error","kind":"custom"} /-->
 <!-- /wp:navigation-submenu -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 03:31:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 03:31:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 03:39:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 03:39:46]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-08 03:44:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-08 03:44:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
@@ -6439,6 +6170,10 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
+<!-- wp:group {"metadata":{"name":"Product Categories Carousel","categories":["mono"],"patternName":"mono/product-cat-carousel"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|large","bottom":"var:preset|spacing|large"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--large);padding-bottom:var(--wp--preset--spacing--large)"><!-- wp:mono/woocommerce-category-carousel {"number":9,"orderBy":"count","hideEmpty":true,"parentOnly":false,"showDots":true,"showCount":false,"aspectRatio":"16:9","accentColor":"#036060","slideGap":20} /--></div>
+<!-- /wp:group -->
+
 <!-- wp:group {"metadata":{"name":"For Men Banner","patternName":"mono/for-men","categories":["mono"]},"layout":{"type":"default"}} -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://mono.everestthemes.com/wp-content/themes/mono/assets/img/men-wears-bg.webp","id":720,"dimRatio":0,"isUserOverlayColor":true,"focalPoint":{"x":0.47,"y":0.48},"minHeight":80,"minHeightUnit":"vh","contentPosition":"bottom center","sizeSlug":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|medium","bottom":"var:preset|spacing|medium"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--medium);padding-bottom:var(--wp--preset--spacing--medium);min-height:80vh"><img class="wp-block-cover__image-background wp-image-720 size-full" alt="" src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/men-wears-bg.webp" style="object-position:47% 48%" data-object-fit="cover" data-object-position="47% 48%"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
@@ -6460,7 +6195,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Men Apparel Carousel","patternName":"mono/men-apparel-carousel","categories":["mono"]},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":0,"query":{"perPage":10,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[38]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":33,"query":{"perPage":10,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[38]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"24"} -->
 <h2 class="wp-block-heading has-24-font-size" style="text-transform:uppercase">Shop Men</h2>
@@ -6520,7 +6255,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Women Apparel Carousel","patternName":"mono/women-apparel-carousel","categories":["mono"]},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":1,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[39]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":34,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[39]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"24"} -->
 <h2 class="wp-block-heading has-24-font-size" style="text-transform:uppercase">Shop Women</h2>
@@ -6580,7 +6315,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:group -->
 
 <!-- wp:group {"metadata":{"name":"Accessories Carousel","patternName":"mono/accessories-apparel-carousel","categories":["mono"]},"style":{"spacing":{"padding":{"top":"var:preset|spacing|x-large","bottom":"var:preset|spacing|x-large"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":2,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[40]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--x-large);padding-bottom:var(--wp--preset--spacing--x-large)"><!-- wp:woocommerce/product-collection {"queryId":35,"query":{"perPage":9,"pages":0,"offset":0,"postType":"product","orderBy":"random","search":"","exclude":[],"inherit":false,"taxQuery":{"product_cat":[40]},"isProductCollectionBlock":true,"featured":false,"woocommerceOnSale":false,"woocommerceStockStatus":["instock","outofstock","onbackorder"],"woocommerceAttributes":[],"woocommerceHandPickedProducts":[],"filterable":false,"relatedBy":{"categories":true,"tags":true}},"tagName":"div","displayLayout":{"type":"carousel","columns":5,"shrinkColumns":true},"dimensions":{"widthType":"fill"},"queryContextIncludes":["collection"]} -->
 <div class="wp-block-woocommerce-product-collection"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textTransform":"uppercase"}},"fontSize":"24"} -->
 <h2 class="wp-block-heading has-24-font-size" style="text-transform:uppercase">Shop Accessories</h2>
@@ -6625,8 +6360,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 03:58:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 03:58:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 11:46:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 11:46:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 16:29:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 16:29:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-v1]]></wp:post_name>
@@ -6640,74 +6375,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mini-Cart]]></title>
-		<link>https://mono.everestthemes.com/mini-cart/</link>
-		<pubDate>Tue, 06 Oct 2026 04:09:37 +0000</pubDate>
-		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/mini-cart/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/mini-cart-contents -->
-<div class="wp-block-woocommerce-mini-cart-contents"><!-- wp:woocommerce/filled-mini-cart-contents-block -->
-<div class="wp-block-woocommerce-filled-mini-cart-contents-block"><!-- wp:woocommerce/mini-cart-title-block -->
-<div class="wp-block-woocommerce-mini-cart-title-block"><!-- wp:woocommerce/mini-cart-title-label-block -->
-<div class="wp-block-woocommerce-mini-cart-title-label-block"></div>
-<!-- /wp:woocommerce/mini-cart-title-label-block -->
-
-<!-- wp:woocommerce/mini-cart-title-items-counter-block -->
-<div class="wp-block-woocommerce-mini-cart-title-items-counter-block"></div>
-<!-- /wp:woocommerce/mini-cart-title-items-counter-block --></div>
-<!-- /wp:woocommerce/mini-cart-title-block -->
-
-<!-- wp:woocommerce/mini-cart-items-block -->
-<div class="wp-block-woocommerce-mini-cart-items-block"><!-- wp:woocommerce/mini-cart-products-table-block -->
-<div class="wp-block-woocommerce-mini-cart-products-table-block"></div>
-<!-- /wp:woocommerce/mini-cart-products-table-block --></div>
-<!-- /wp:woocommerce/mini-cart-items-block -->
-
-<!-- wp:woocommerce/mini-cart-footer-block -->
-<div class="wp-block-woocommerce-mini-cart-footer-block"><!-- wp:woocommerce/mini-cart-cart-button-block -->
-<div class="wp-block-woocommerce-mini-cart-cart-button-block"></div>
-<!-- /wp:woocommerce/mini-cart-cart-button-block -->
-
-<!-- wp:woocommerce/mini-cart-checkout-button-block -->
-<div class="wp-block-woocommerce-mini-cart-checkout-button-block"></div>
-<!-- /wp:woocommerce/mini-cart-checkout-button-block --></div>
-<!-- /wp:woocommerce/mini-cart-footer-block --></div>
-<!-- /wp:woocommerce/filled-mini-cart-contents-block -->
-
-<!-- wp:woocommerce/empty-mini-cart-contents-block -->
-<div class="wp-block-woocommerce-empty-mini-cart-contents-block"><!-- wp:paragraph {"metadata":{"patternName":"woocommerce/mini-cart-empty-cart-message","name":"Empty Mini-Cart Message"},"style":{"typography":{"textAlign":"center"}}} -->
-<p class="has-text-align-center"><strong>Your cart is currently empty!</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:woocommerce/mini-cart-shopping-button-block {"backgroundColor":"primary","className":"is-style-fill"} -->
-<div class="wp-block-woocommerce-mini-cart-shopping-button-block is-style-fill has-primary-background-color has-background"></div>
-<!-- /wp:woocommerce/mini-cart-shopping-button-block --></div>
-<!-- /wp:woocommerce/empty-mini-cart-contents-block --></div>
-<!-- /wp:woocommerce/mini-cart-contents -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Template used to display the Mini-Cart drawer.]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-06 04:09:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-06 04:09:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 04:09:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 04:09:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mini-cart]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="mini-cart"><![CDATA[mini-cart]]></category>
-		<category domain="wp_theme" nicename="woocommerce-woocommerce"><![CDATA[woocommerce/woocommerce]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[plugin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7697,7 +7364,21 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- wp:navigation-link {"label":"Home 3","type":"page","id":58,"url":"https://mono.everestthemes.com/home-3/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
 <!-- /wp:navigation-submenu -->
 
+<!-- wp:navigation-submenu {"label":"Shop","type":"page","id":20,"url":"https://mono.everestthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} -->
 <!-- wp:navigation-link {"label":"Shop","type":"page","id":20,"url":"https://mono.everestthemes.com/shop/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
+
+<!-- wp:navigation-submenu {"label":"Single Product","url":"#","kind":"custom"} -->
+<!-- wp:navigation-link {"label":"Single - Default","url":"https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"Single Layout 1","type":"page","url":"https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/?template=single-product-layout-1","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Simple Product","type":"page","url":"https://mono.everestthemes.com/product/relaxed-linen-blend-wide-leg-overalls-jumpsuit/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Variable Product","type":"page","url":"https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Grouped Product","type":"page","url":"https://mono.everestthemes.com/product/heavyweight-relaxed-crewneck-t-shirt-wash-denim-jeans/","kind":"post-type"} /-->
+<!-- /wp:navigation-submenu -->
+<!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Blog","type":"page","id":51,"url":"https://mono.everestthemes.com/blog/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} -->
 <!-- wp:navigation-link {"label":"Blog Archive","type":"page","id":51,"url":"https://mono.everestthemes.com/blog/","kind":"post-type","metadata":{"bindings":{"url":{"source":"core/post-data","args":{"field":"link"}}}}} /-->
@@ -7716,8 +7397,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 09:13:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 09:13:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 09:18:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 09:18:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-08 03:57:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-08 03:57:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu]]></wp:post_name>
@@ -7728,6 +7409,144 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Minimalist Leather Everyday Tote | magnetic closure.]]></title>
+		<link>https://mono.everestthemes.com/product/minimalist-leather-everyday-tote-magnetic-closure/</link>
+		<pubDate>Tue, 06 Oct 2026 12:13:39 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product&#038;p=165</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+ 	<li>
+<p id="p-rc_076aa5988927af04-86" data-path-to-node="4,0,0"><span data-path-to-node="4,0,0,0"><b data-path-to-node="4,0,0,0" data-index-in-node="0">Design &amp; Concept:</b> Stripped of unnecessary exterior hardware, this tote focuses on silhouette, proportion, and leather texture</span><span data-path-to-node="4,0,0,2">. The structured base allows the bag to stand upright, while the supple side panels drape naturally under the arm</span><span data-path-to-node="4,0,0,4">. Finished with hand-painted raw edges and a minimalist removable leather clochette tag</span><span data-path-to-node="4,0,0,6">.</span></p>
+</li>
+ 	<li>
+<p data-path-to-node="4,1,0"><b data-path-to-node="4,1,0" data-index-in-node="0">Interior Architecture:</b> Generous main compartment lined with durable tonal cotton canvas. Features one interior zippered valuables pocket, two slip compartments for phone and cards, and a magnetic snap closure for security.</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,0"><b data-path-to-node="4,2,0" data-index-in-node="0">Specifications:</b></p>
+
+<ul data-path-to-node="4,2,1">
+ 	<li>
+<p data-path-to-node="4,2,1,0,0"><b data-path-to-node="4,2,1,0,0" data-index-in-node="0">Dimensions:</b> 36 cm H × 42 cm W × 14 cm D</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,1,0"><b data-path-to-node="4,2,1,1,0" data-index-in-node="0">Handle Drop:</b> 25.5 cm (10 inches)</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,2,0"><b data-path-to-node="4,2,1,2,0" data-index-in-node="0">Material:</b> 100% full-grain semi-matte cowhide leather</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,3,0"><b data-path-to-node="4,2,1,3,0" data-index-in-node="0">Hardware:</b> Matte black coated metal</p>
+</li>
+</ul>
+</li>
+ 	<li>
+<p data-path-to-node="4,3,0"><b data-path-to-node="4,3,0" data-index-in-node="0">Care Instructions:</b> Wipe clean with a soft, dry microfiber cloth. Condition every 6 months with neutral leather balm.</p>
+</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[<span data-path-to-node="2,1,0,0">A structured matte black leather tote designed with clean lines, reinforced slim shoulder handles, and a detachable tonal leather tag</span><span data-path-to-node="2,1,0,2">. Built to carry everyday essentials, a water bottle, and up to a 15-inch laptop.</span>]]></excerpt:encoded>
+		<wp:post_id>165</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-06 12:13:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-06 12:13:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[minimalist-leather-everyday-tote-magnetic-closure]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[156]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[158]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Men's Automatic Swiss Watch - 42mm Blue Dial with Date]]></title>
 		<link>https://mono.everestthemes.com/product/mens-automatic-swiss-watch-42mm-blue-dial-with-date/</link>
@@ -7926,8 +7745,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-06 12:38:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-06 12:38:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 12:38:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 12:38:02]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 04:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 04:25:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front]]></wp:post_name>
@@ -7937,7 +7756,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+										<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<category domain="product_cat" nicename="womens-wear"><![CDATA[Women's Wear]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -7946,10 +7765,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[176]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -8012,12 +7827,24 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[175,173,172]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:5:"color";a:6:{s:4:"name";s:5:"Color";s:5:"value";s:29:"Green | Orange | Brown | Pink";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[175,173,172]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[cfvsw_product_attr_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:4:"type";s:5:"color";s:5:"green";a:1:{s:5:"color";s:7:"#81d742";}s:6:"orange";a:1:{s:5:"color";s:7:"#ef9637";}s:5:"brown";a:1:{s:5:"color";s:7:"#bf6b2b";}s:4:"pink";a:1:{s:5:"color";s:7:"#ed23d2";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8185,6 +8012,718 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[180,178,179]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Girls Blazer Jacket Long Sleeve Solid Color Comfy Blazer Open Front - Green]]></title>
+		<link>https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/?attribute_color=Green</link>
+		<pubDate>Wed, 07 Oct 2026 04:24:46 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product_variation&#038;p=181</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Color: Green]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-07 04:24:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-07 04:24:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 04:25:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 04:25:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front-green]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>170</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Green]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Girls Blazer Jacket Long Sleeve Solid Color Comfy Blazer Open Front - Orange]]></title>
+		<link>https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/?attribute_color=Orange</link>
+		<pubDate>Wed, 07 Oct 2026 04:24:46 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product_variation&#038;p=182</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Color: Orange]]></excerpt:encoded>
+		<wp:post_id>182</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-07 04:24:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-07 04:24:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 04:25:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 04:25:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front-orange]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>170</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Orange]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[175]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Girls Blazer Jacket Long Sleeve Solid Color Comfy Blazer Open Front - Brown]]></title>
+		<link>https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/?attribute_color=Brown</link>
+		<pubDate>Wed, 07 Oct 2026 04:24:46 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product_variation&#038;p=183</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Color: Brown]]></excerpt:encoded>
+		<wp:post_id>183</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-07 04:24:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-07 04:24:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 04:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 04:25:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front-brown]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>170</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Brown]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Girls Blazer Jacket Long Sleeve Solid Color Comfy Blazer Open Front - Pink]]></title>
+		<link>https://mono.everestthemes.com/product/girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front/?attribute_color=Pink</link>
+		<pubDate>Wed, 07 Oct 2026 04:24:46 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product_variation&#038;p=184</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Color: Pink]]></excerpt:encoded>
+		<wp:post_id>184</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-07 04:24:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-07 04:24:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-07 04:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-07 04:25:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[girls-blazer-jacket-long-sleeve-solid-color-comfy-blazer-open-front-pink]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>170</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Pink]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[172]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[165]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://mono.everestthemes.com/header/</link>
+		<pubDate>Tue, 06 Oct 2026 03:15:31 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?p=62</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header","patternName":"mono/header-v1","categories":["mono"]},"style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"metadata":{"name":"Notification"},"style":{"spacing":{"padding":{"top":"8px","bottom":"8px"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-primary-background-color has-background" style="padding-top:8px;padding-bottom:8px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center","fontSize":"12px"},"elements":{"link":{"color":{"text":"var:preset|color|light"}}}},"textColor":"light"} -->
+<p class="has-text-align-center has-light-color has-text-color has-link-color" style="font-size:12px;font-style:normal;font-weight:600">Discover the latest Mono collection — thoughtfully designed essentials for effortless, everyday style.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Header Nav"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small","bottom":"var:preset|spacing|xx-small"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xx-small);padding-bottom:var(--wp--preset--spacing--xx-small)"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"className":"header-v2"} -->
+<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile header-v2"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"width":"96px","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"spacing":{"margin":{"top":"16px","bottom":"16px"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:16px;margin-bottom:16px"><a href="https://mono.everestthemes.com/"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/mono-logo.svg" alt="" style="width:96px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"is-megamenu hide-on-sm","style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group is-megamenu hide-on-sm"><!-- wp:paragraph {"className":"has-inline-img","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0","left":"var:preset|spacing|0","right":"var:preset|spacing|0"}},"elements":{"link":{"color":{"text":"var:preset|color|card-foreground"}}}},"textColor":"card-foreground","fontSize":"16"} -->
+<p class="has-inline-img has-card-foreground-color has-text-color has-link-color has-16-font-size" style="padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--0);font-style:normal;font-weight:700;text-transform:uppercase"><img class="wp-image-876" style="width: 20px;" src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/ic-megamenu.svg" alt=""> Browse Shop</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:navigation {"ref":132,"textColor":"foreground","icon":"menu","customOverlayBackgroundColor":"#f7f7f7","overlayTextColor":"foreground","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"24px"},"@mobile":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<div class="wp-block-group"><!-- wp:mono/product-search {"containerSize":"small","style":{"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}}} /-->
+
+<!-- wp:woocommerce/customer-account {"displayStyle":"icon_only","iconStyle":"line","iconClass":"wc-block-customer-account__account-icon"} /-->
+
+<!-- wp:woocommerce/mini-cart {"addToCartBehaviour":"open_drawer"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Megamenu","patternName":"mono/megamenu","categories":["mono"]},"className":"is-mega-menu-wrapper","backgroundColor":"card","layout":{"type":"default"}} -->
+<div class="wp-block-group is-mega-menu-wrapper has-card-background-color has-background"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"className":"op-grid op-grid-cols-5 op-mobile-cols-2","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"},"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}}} -->
+<div class="wp-block-columns op-grid op-grid-cols-5 op-mobile-cols-2" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Men's Collection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">T-Shirts &amp; Polos</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Shirts &amp; Button-Downs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Denim &amp; Jeans</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Jackets &amp; Outerwear</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Hoodies &amp; Sweatshirts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Shorts &amp; Trousers</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Suits &amp; Tailoring</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Loungewear &amp; Sleepwear</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Women's Collection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">Dresses &amp; Jumpsuits</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Tops &amp; Blouses</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Denim &amp; Pants</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Coats &amp; Jackets</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Knitwear &amp; Sweaters</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Skirts &amp; Shorts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Activewear &amp; Athleisure</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Loungewear &amp; Intimates</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Accessories &amp; Shoes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">Leather Bags &amp; Totes</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Footwear &amp; Sneakers</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Sunglasses &amp; Eyewear</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Hats &amp; Caps</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Belts &amp; Leather Goods</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Jewelry &amp; Watches</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Scarves &amp; Gloves</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Wallets &amp; Cardholders</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","className":"op-col-span-2"} -->
+<div class="wp-block-column op-col-span-2"><!-- wp:image {"id":98,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"op-animated animate__fadeInUp","style":{"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border op-animated animate__fadeInUp"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/megamenu-img.webp" alt="Mono Clothing Collection" class="wp-image-98" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|border","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":130,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-9.svg" alt="" class="wp-image-130"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":129,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-8.svg" alt="" class="wp-image-129"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-7.svg" alt="" class="wp-image-128"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":123,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-2.svg" alt="" class="wp-image-123"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":125,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-4.svg" alt="" class="wp-image-125"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":126,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-full"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-5.svg" alt="" class="wp-image-126"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-06 03:15:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-06 03:15:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-08 03:57:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-08 03:57:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Mini-Cart]]></title>
+		<link>https://mono.everestthemes.com/mini-cart/</link>
+		<pubDate>Tue, 06 Oct 2026 04:09:37 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/mini-cart/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:woocommerce/mini-cart-contents -->
+<div class="wp-block-woocommerce-mini-cart-contents"><!-- wp:woocommerce/filled-mini-cart-contents-block -->
+<div class="wp-block-woocommerce-filled-mini-cart-contents-block"><!-- wp:woocommerce/mini-cart-title-block -->
+<div class="wp-block-woocommerce-mini-cart-title-block"><!-- wp:woocommerce/mini-cart-title-label-block -->
+<div class="wp-block-woocommerce-mini-cart-title-label-block"></div>
+<!-- /wp:woocommerce/mini-cart-title-label-block -->
+
+<!-- wp:woocommerce/mini-cart-title-items-counter-block -->
+<div class="wp-block-woocommerce-mini-cart-title-items-counter-block"></div>
+<!-- /wp:woocommerce/mini-cart-title-items-counter-block --></div>
+<!-- /wp:woocommerce/mini-cart-title-block -->
+
+<!-- wp:woocommerce/mini-cart-items-block -->
+<div class="wp-block-woocommerce-mini-cart-items-block"><!-- wp:woocommerce/mini-cart-products-table-block -->
+<div class="wp-block-woocommerce-mini-cart-products-table-block"></div>
+<!-- /wp:woocommerce/mini-cart-products-table-block --></div>
+<!-- /wp:woocommerce/mini-cart-items-block -->
+
+<!-- wp:woocommerce/mini-cart-footer-block -->
+<div class="wp-block-woocommerce-mini-cart-footer-block"><!-- wp:woocommerce/mini-cart-cart-button-block -->
+<div class="wp-block-woocommerce-mini-cart-cart-button-block"></div>
+<!-- /wp:woocommerce/mini-cart-cart-button-block -->
+
+<!-- wp:woocommerce/mini-cart-checkout-button-block -->
+<div class="wp-block-woocommerce-mini-cart-checkout-button-block"></div>
+<!-- /wp:woocommerce/mini-cart-checkout-button-block --></div>
+<!-- /wp:woocommerce/mini-cart-footer-block --></div>
+<!-- /wp:woocommerce/filled-mini-cart-contents-block -->
+
+<!-- wp:woocommerce/empty-mini-cart-contents-block -->
+<div class="wp-block-woocommerce-empty-mini-cart-contents-block"><!-- wp:paragraph {"metadata":{"patternName":"woocommerce/mini-cart-empty-cart-message","name":"Empty Mini-Cart Message"},"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center"><strong>Your cart is currently empty!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:woocommerce/mini-cart-shopping-button-block {"backgroundColor":"primary","className":"is-style-fill"} -->
+<div class="wp-block-woocommerce-mini-cart-shopping-button-block is-style-fill has-primary-background-color has-background"></div>
+<!-- /wp:woocommerce/mini-cart-shopping-button-block --></div>
+<!-- /wp:woocommerce/empty-mini-cart-contents-block --></div>
+<!-- /wp:woocommerce/mini-cart-contents -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Template used to display the Mini-Cart drawer.]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-06 04:09:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-06 04:09:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-06 04:09:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-06 04:09:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mini-cart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="mini-cart"><![CDATA[mini-cart]]></category>
+		<category domain="wp_theme" nicename="woocommerce-woocommerce"><![CDATA[woocommerce/woocommerce]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[plugin]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
