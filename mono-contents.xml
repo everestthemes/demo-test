@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.3" created="2026-10-14 07:52" -->
+	<!-- generator="WordPress/7.1.4" created="2026-11-06 09:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Mono Theme</title>
 	<link>https://mono.everestthemes.com</link>
 	<description></description>
-	<pubDate>Wed, 14 Oct 2026 07:52:09 +0000</pubDate>
+	<pubDate>Fri, 06 Nov 2026 09:24:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://mono.everestthemes.com</wp:base_site_url>
@@ -371,7 +371,7 @@
 		</wp:termmeta>
 	</wp:term>
 		
-	<generator>https://wordpress.org/?v=7.1.3</generator>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
 
 		<item>
 		<title><![CDATA[blog-img-1]]></title>
@@ -3351,65 +3351,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://mono.everestthemes.com/?p=1</link>
-		<pubDate>Mon, 05 Oct 2026 03:17:56 +0000</pubDate>
-		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-05 03:17:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-05 03:17:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-05 10:36:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-05 10:36:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1791196607]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2026-10-05 03:17:56]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2026-10-05 03:17:56]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[The Art of Everyday Dressing: Building a Wardrobe That Works]]></title>
 		<link>https://mono.everestthemes.com/the-art-of-everyday-dressing-building-a-wardrobe-that-works/</link>
 		<pubDate>Mon, 05 Oct 2026 10:38:54 +0000</pubDate>
@@ -5698,6 +5639,144 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Minimalist Leather Everyday Tote | magnetic closure.]]></title>
+		<link>https://mono.everestthemes.com/product/minimalist-leather-everyday-tote-magnetic-closure/</link>
+		<pubDate>Tue, 06 Oct 2026 12:13:39 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product&#038;p=165</guid>
+		<description></description>
+		<content:encoded><![CDATA[<ul>
+ 	<li>
+<p id="p-rc_076aa5988927af04-86" data-path-to-node="4,0,0"><span data-path-to-node="4,0,0,0"><b data-path-to-node="4,0,0,0" data-index-in-node="0">Design &amp; Concept:</b> Stripped of unnecessary exterior hardware, this tote focuses on silhouette, proportion, and leather texture</span><span data-path-to-node="4,0,0,2">. The structured base allows the bag to stand upright, while the supple side panels drape naturally under the arm</span><span data-path-to-node="4,0,0,4">. Finished with hand-painted raw edges and a minimalist removable leather clochette tag</span><span data-path-to-node="4,0,0,6">.</span></p>
+</li>
+ 	<li>
+<p data-path-to-node="4,1,0"><b data-path-to-node="4,1,0" data-index-in-node="0">Interior Architecture:</b> Generous main compartment lined with durable tonal cotton canvas. Features one interior zippered valuables pocket, two slip compartments for phone and cards, and a magnetic snap closure for security.</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,0"><b data-path-to-node="4,2,0" data-index-in-node="0">Specifications:</b></p>
+
+<ul data-path-to-node="4,2,1">
+ 	<li>
+<p data-path-to-node="4,2,1,0,0"><b data-path-to-node="4,2,1,0,0" data-index-in-node="0">Dimensions:</b> 36 cm H × 42 cm W × 14 cm D</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,1,0"><b data-path-to-node="4,2,1,1,0" data-index-in-node="0">Handle Drop:</b> 25.5 cm (10 inches)</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,2,0"><b data-path-to-node="4,2,1,2,0" data-index-in-node="0">Material:</b> 100% full-grain semi-matte cowhide leather</p>
+</li>
+ 	<li>
+<p data-path-to-node="4,2,1,3,0"><b data-path-to-node="4,2,1,3,0" data-index-in-node="0">Hardware:</b> Matte black coated metal</p>
+</li>
+</ul>
+</li>
+ 	<li>
+<p data-path-to-node="4,3,0"><b data-path-to-node="4,3,0" data-index-in-node="0">Care Instructions:</b> Wipe clean with a soft, dry microfiber cloth. Condition every 6 months with neutral leather balm.</p>
+</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[<span data-path-to-node="2,1,0,0">A structured matte black leather tote designed with clean lines, reinforced slim shoulder handles, and a detachable tonal leather tag</span><span data-path-to-node="2,1,0,2">. Built to carry everyday essentials, a water bottle, and up to a 15-inch laptop.</span>]]></excerpt:encoded>
+		<wp:post_id>165</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-06 12:13:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-10-06 12:13:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[minimalist-leather-everyday-tote-magnetic-closure]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[156]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[72]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[158]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[About Us]]></title>
 		<link>https://mono.everestthemes.com/about-us/</link>
 		<pubDate>Thu, 08 Oct 2026 03:47:14 +0000</pubDate>
@@ -5943,6 +6022,238 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
 						</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://mono.everestthemes.com/header/</link>
+		<pubDate>Tue, 06 Oct 2026 03:15:31 +0000</pubDate>
+		<dc:creator><![CDATA[monotheme]]></dc:creator>
+		<guid isPermaLink="false">https://mono.everestthemes.com/?p=62</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header","patternName":"mono/header-v1","categories":["mono"]},"style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"metadata":{"name":"Notification"},"style":{"spacing":{"padding":{"top":"8px","bottom":"8px"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-primary-background-color has-background" style="padding-top:8px;padding-bottom:8px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center","fontSize":"12px"},"elements":{"link":{"color":{"text":"var:preset|color|light"}}}},"textColor":"light"} -->
+<p class="has-text-align-center has-light-color has-text-color has-link-color" style="font-size:12px;font-style:normal;font-weight:600">Discover the latest Mono collection — thoughtfully designed essentials for effortless, everyday style.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Header Nav"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small","bottom":"var:preset|spacing|xx-small"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xx-small);padding-bottom:var(--wp--preset--spacing--xx-small)"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"className":"header-v2"} -->
+<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile header-v2"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:image {"width":"96px","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"spacing":{"margin":{"top":"16px","bottom":"16px"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:16px;margin-bottom:16px"><a href="https://mono.everestthemes.com/"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/mono-logo.svg" alt="" style="width:96px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"className":"is-megamenu hide-on-sm","style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group is-megamenu hide-on-sm"><!-- wp:paragraph {"className":"has-inline-img","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0","left":"var:preset|spacing|0","right":"var:preset|spacing|0"}},"elements":{"link":{"color":{"text":"var:preset|color|card-foreground"}}}},"textColor":"card-foreground","fontSize":"16"} -->
+<p class="has-inline-img has-card-foreground-color has-text-color has-link-color has-16-font-size" style="padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--0);font-style:normal;font-weight:700;text-transform:uppercase"><img class="wp-image-876" style="width: 20px;" src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/ic-megamenu.svg" alt=""> Browse Shop</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:navigation {"ref":132,"textColor":"foreground","icon":"menu","customOverlayBackgroundColor":"#f7f7f7","overlayTextColor":"foreground","className":"primary-menu","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"24px"},"@mobile":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<div class="wp-block-group"><!-- wp:mono/product-search {"containerSize":"small","style":{"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}}} /-->
+
+<!-- wp:woocommerce/customer-account {"displayStyle":"icon_only","iconStyle":"line","iconClass":"wc-block-customer-account__account-icon"} /-->
+
+<!-- wp:woocommerce/mini-cart {"addToCartBehaviour":"open_drawer"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"name":"Megamenu","patternName":"mono/megamenu","categories":["mono"]},"className":"is-mega-menu-wrapper","backgroundColor":"card","layout":{"type":"default"}} -->
+<div class="wp-block-group is-mega-menu-wrapper has-card-background-color has-background"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"className":"op-grid op-grid-cols-5 op-mobile-cols-2","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"},"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}}} -->
+<div class="wp-block-columns op-grid op-grid-cols-5 op-mobile-cols-2" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Men's Collection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">T-Shirts &amp; Polos</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Shirts &amp; Button-Downs</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Denim &amp; Jeans</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Jackets &amp; Outerwear</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Hoodies &amp; Sweatshirts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Shorts &amp; Trousers</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Suits &amp; Tailoring</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Loungewear &amp; Sleepwear</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Women's Collection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">Dresses &amp; Jumpsuits</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Tops &amp; Blouses</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Denim &amp; Pants</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Coats &amp; Jackets</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Knitwear &amp; Sweaters</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Skirts &amp; Shorts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Activewear &amp; Athleisure</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Loungewear &amp; Intimates</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
+<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
+<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Accessories &amp; Shoes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
+<p><a href="#">Leather Bags &amp; Totes</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Footwear &amp; Sneakers</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Sunglasses &amp; Eyewear</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Hats &amp; Caps</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Belts &amp; Leather Goods</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Jewelry &amp; Watches</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Scarves &amp; Gloves</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="#">Wallets &amp; Cardholders</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","className":"op-col-span-2"} -->
+<div class="wp-block-column op-col-span-2"><!-- wp:image {"id":98,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"op-animated animate__fadeInUp","style":{"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border op-animated animate__fadeInUp"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/megamenu-img.webp" alt="Mono Clothing Collection" class="wp-image-98" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|border","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":130,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-9.svg" alt="" class="wp-image-130"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":129,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-8.svg" alt="" class="wp-image-129"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-7.svg" alt="" class="wp-image-128"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":123,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-2.svg" alt="" class="wp-image-123"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":125,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-4.svg" alt="" class="wp-image-125"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":126,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
+<figure class="wp-block-image size-full"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-5.svg" alt="" class="wp-image-126"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2026-10-06 03:15:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-10-06 03:15:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-11-06 09:18:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-06 09:18:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Blog Alternative]]></title>
 		<link>https://mono.everestthemes.com/blog-alternative/</link>
@@ -7410,144 +7721,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Minimalist Leather Everyday Tote | magnetic closure.]]></title>
-		<link>https://mono.everestthemes.com/product/minimalist-leather-everyday-tote-magnetic-closure/</link>
-		<pubDate>Tue, 06 Oct 2026 12:13:39 +0000</pubDate>
-		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/?post_type=product&#038;p=165</guid>
-		<description></description>
-		<content:encoded><![CDATA[<ul>
- 	<li>
-<p id="p-rc_076aa5988927af04-86" data-path-to-node="4,0,0"><span data-path-to-node="4,0,0,0"><b data-path-to-node="4,0,0,0" data-index-in-node="0">Design &amp; Concept:</b> Stripped of unnecessary exterior hardware, this tote focuses on silhouette, proportion, and leather texture</span><span data-path-to-node="4,0,0,2">. The structured base allows the bag to stand upright, while the supple side panels drape naturally under the arm</span><span data-path-to-node="4,0,0,4">. Finished with hand-painted raw edges and a minimalist removable leather clochette tag</span><span data-path-to-node="4,0,0,6">.</span></p>
-</li>
- 	<li>
-<p data-path-to-node="4,1,0"><b data-path-to-node="4,1,0" data-index-in-node="0">Interior Architecture:</b> Generous main compartment lined with durable tonal cotton canvas. Features one interior zippered valuables pocket, two slip compartments for phone and cards, and a magnetic snap closure for security.</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,0"><b data-path-to-node="4,2,0" data-index-in-node="0">Specifications:</b></p>
-
-<ul data-path-to-node="4,2,1">
- 	<li>
-<p data-path-to-node="4,2,1,0,0"><b data-path-to-node="4,2,1,0,0" data-index-in-node="0">Dimensions:</b> 36 cm H × 42 cm W × 14 cm D</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,1,0"><b data-path-to-node="4,2,1,1,0" data-index-in-node="0">Handle Drop:</b> 25.5 cm (10 inches)</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,2,0"><b data-path-to-node="4,2,1,2,0" data-index-in-node="0">Material:</b> 100% full-grain semi-matte cowhide leather</p>
-</li>
- 	<li>
-<p data-path-to-node="4,2,1,3,0"><b data-path-to-node="4,2,1,3,0" data-index-in-node="0">Hardware:</b> Matte black coated metal</p>
-</li>
-</ul>
-</li>
- 	<li>
-<p data-path-to-node="4,3,0"><b data-path-to-node="4,3,0" data-index-in-node="0">Care Instructions:</b> Wipe clean with a soft, dry microfiber cloth. Condition every 6 months with neutral leather balm.</p>
-</li>
-</ul>]]></content:encoded>
-		<excerpt:encoded><![CDATA[<span data-path-to-node="2,1,0,0">A structured matte black leather tote designed with clean lines, reinforced slim shoulder handles, and a detachable tonal leather tag</span><span data-path-to-node="2,1,0,2">. Built to carry everyday essentials, a water bottle, and up to a 15-inch laptop.</span>]]></excerpt:encoded>
-		<wp:post_id>165</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-06 12:13:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-06 12:13:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-06 12:13:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimalist-leather-everyday-tote-magnetic-closure]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="accessories"><![CDATA[Accessories]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[156]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11.1.2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[72]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[158]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Men's Automatic Swiss Watch - 42mm Blue Dial with Date]]></title>
 		<link>https://mono.everestthemes.com/product/mens-automatic-swiss-watch-42mm-blue-dial-with-date/</link>
 		<pubDate>Tue, 06 Oct 2026 12:23:27 +0000</pubDate>
@@ -8424,238 +8597,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Header]]></title>
-		<link>https://mono.everestthemes.com/header/</link>
-		<pubDate>Tue, 06 Oct 2026 03:15:31 +0000</pubDate>
-		<dc:creator><![CDATA[monotheme]]></dc:creator>
-		<guid isPermaLink="false">https://mono.everestthemes.com/?p=62</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"name":"Header","patternName":"mono/header-v1","categories":["mono"]},"style":{"spacing":{"blockGap":"0","padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"metadata":{"name":"Notification"},"style":{"spacing":{"padding":{"top":"8px","bottom":"8px"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-primary-background-color has-background" style="padding-top:8px;padding-bottom:8px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","textAlign":"center","fontSize":"12px"},"elements":{"link":{"color":{"text":"var:preset|color|light"}}}},"textColor":"light"} -->
-<p class="has-text-align-center has-light-color has-text-color has-link-color" style="font-size:12px;font-style:normal;font-weight:600">Discover the latest Mono collection — thoughtfully designed essentials for effortless, everyday style.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Header Nav"},"style":{"spacing":{"padding":{"top":"var:preset|spacing|xx-small","bottom":"var:preset|spacing|xx-small"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xx-small);padding-bottom:var(--wp--preset--spacing--xx-small)"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"className":"header-v2"} -->
-<div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile header-v2"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group"><!-- wp:image {"width":"96px","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"spacing":{"margin":{"top":"16px","bottom":"16px"}}}} -->
-<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:16px;margin-bottom:16px"><a href="https://mono.everestthemes.com/"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/mono-logo.svg" alt="" style="width:96px;height:auto"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:group {"className":"is-megamenu hide-on-sm","style":{"spacing":{"blockGap":"8px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group is-megamenu hide-on-sm"><!-- wp:paragraph {"className":"has-inline-img","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0","left":"var:preset|spacing|0","right":"var:preset|spacing|0"}},"elements":{"link":{"color":{"text":"var:preset|color|card-foreground"}}}},"textColor":"card-foreground","fontSize":"16"} -->
-<p class="has-inline-img has-card-foreground-color has-text-color has-link-color has-16-font-size" style="padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--0);font-style:normal;font-weight:700;text-transform:uppercase"><img class="wp-image-876" style="width: 20px;" src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/ic-megamenu.svg" alt=""> Browse Shop</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:navigation {"ref":132,"textColor":"foreground","icon":"menu","customOverlayBackgroundColor":"#f7f7f7","overlayTextColor":"foreground","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"600"}}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:group {"style":{"spacing":{"blockGap":"24px"},"@mobile":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:mono/product-search {"containerSize":"small","style":{"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}}} /-->
-
-<!-- wp:woocommerce/customer-account {"displayStyle":"icon_only","iconStyle":"line","iconClass":"wc-block-customer-account__account-icon"} /-->
-
-<!-- wp:woocommerce/mini-cart {"addToCartBehaviour":"open_drawer"} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"metadata":{"name":"Megamenu","patternName":"mono/megamenu","categories":["mono"]},"className":"is-mega-menu-wrapper","backgroundColor":"card","layout":{"type":"default"}} -->
-<div class="wp-block-group is-mega-menu-wrapper has-card-background-color has-background"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"className":"op-grid op-grid-cols-5 op-mobile-cols-2","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|small","left":"var:preset|spacing|small"},"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}}} -->
-<div class="wp-block-columns op-grid op-grid-cols-5 op-mobile-cols-2" style="padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Men's Collection</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">T-Shirts &amp; Polos</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Shirts &amp; Button-Downs</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Denim &amp; Jeans</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Jackets &amp; Outerwear</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Hoodies &amp; Sweatshirts</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Shorts &amp; Trousers</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Suits &amp; Tailoring</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Loungewear &amp; Sleepwear</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Women's Collection</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">Dresses &amp; Jumpsuits</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Tops &amp; Blouses</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Denim &amp; Pants</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Coats &amp; Jackets</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Knitwear &amp; Sweaters</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Skirts &amp; Shorts</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Activewear &amp; Athleisure</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Loungewear &amp; Intimates</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"className":"op-animated animate__fadeInUp","layout":{"type":"constrained"}} -->
-<div class="wp-block-group op-animated animate__fadeInUp"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"elements":{"link":{"color":{"text":"var:preset|color|heading"}}}},"textColor":"heading","fontSize":"24"} -->
-<h2 class="wp-block-heading has-heading-color has-text-color has-link-color has-24-font-size" style="font-style:normal;font-weight:600">Accessories &amp; Shoes</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small"},"blockGap":"12px"}},"fontSize":"14","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-14-font-size" style="margin-top:var(--wp--preset--spacing--small)"><!-- wp:paragraph -->
-<p><a href="#">Leather Bags &amp; Totes</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Footwear &amp; Sneakers</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Sunglasses &amp; Eyewear</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Hats &amp; Caps</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Belts &amp; Leather Goods</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Jewelry &amp; Watches</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Scarves &amp; Gloves</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="#">Wallets &amp; Cardholders</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"","className":"op-col-span-2"} -->
-<div class="wp-block-column op-col-span-2"><!-- wp:image {"id":98,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"op-animated animate__fadeInUp","style":{"border":{"radius":{"topLeft":"2px","topRight":"2px","bottomLeft":"2px","bottomRight":"2px"}}}} -->
-<figure class="wp-block-image size-full has-custom-border op-animated animate__fadeInUp"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/megamenu-img.webp" alt="Mono Clothing Collection" class="wp-image-98" style="border-top-left-radius:2px;border-top-right-radius:2px;border-bottom-left-radius:2px;border-bottom-right-radius:2px;aspect-ratio:16/9;object-fit:cover"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|border","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|small"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--border);border-top-width:1px;padding-top:var(--wp--preset--spacing--small);padding-bottom:var(--wp--preset--spacing--small)"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|small"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":130,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-9.svg" alt="" class="wp-image-130"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":129,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-8.svg" alt="" class="wp-image-129"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-7.svg" alt="" class="wp-image-128"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":123,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-2.svg" alt="" class="wp-image-123"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":125,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-large"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-4.svg" alt="" class="wp-image-125"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":126,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|grayscale"}}} -->
-<figure class="wp-block-image size-full"><img src="https://mono.everestthemes.com/wp-content/themes/mono/assets/img/logoipsum-5.svg" alt="" class="wp-image-126"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2026-10-06 03:15:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-10-06 03:15:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-08 03:57:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-08 03:57:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[header]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
-		<category domain="wp_theme" nicename="mono"><![CDATA[mono]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
