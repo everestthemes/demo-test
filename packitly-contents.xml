@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1.4" created="2026-10-30 04:08" -->
+	<!-- generator="WordPress/7.1.4" created="2026-11-06 09:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>Woocommerce demo</title>
+	<title>Packitly</title>
 	<link>https://packitly.everestthemes.com</link>
-	<description></description>
-	<pubDate>Fri, 30 Oct 2026 04:08:03 +0000</pubDate>
+	<description>WooCommerce Theme</description>
+	<pubDate>Fri, 06 Nov 2026 09:33:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://packitly.everestthemes.com</wp:base_site_url>
@@ -4069,7 +4069,7 @@ Compatible lids help cover the contents during storage and transportation, while
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Navigation]]></title>
+		<title><![CDATA[Main Menu]]></title>
 		<link>https://packitly.everestthemes.com/navigation/</link>
 		<pubDate>Tue, 27 Oct 2026 04:05:56 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4114,8 +4114,8 @@ Compatible lids help cover the contents during storage and transportation, while
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-27 04:05:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-27 04:05:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-30 02:23:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-30 02:23:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-06 09:31:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-06 09:31:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation]]></wp:post_name>
@@ -4398,7 +4398,7 @@ Compatible lids help cover the contents during storage and transportation, while
 <p class="is-megamenu hide-on-sm has-inline-img has-card-foreground-color has-text-color has-link-color has-16-font-size" style="padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--0);font-style:normal;font-weight:700;text-transform:uppercase"><img class="wp-image-876" style="width: 20px;" src="https://packitly.everestthemes.com/wp-content/themes/packitly/assets/img/ic-megamenu.svg" alt=""> Browse Shop</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:navigation {"ref":4,"textColor":"foreground","icon":"menu","overlayBackgroundColor":"muted","overlayTextColor":"foreground","style":{"typography":{"textTransform":"uppercase"}}} /--></div>
+<!-- wp:navigation {"ref":4,"textColor":"foreground","icon":"menu","overlayBackgroundColor":"muted","overlayTextColor":"foreground","className":"primary-menu","style":{"typography":{"textTransform":"uppercase"}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
@@ -4669,8 +4669,8 @@ Compatible lids help cover the contents during storage and transportation, while
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2026-10-29 11:08:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-10-29 11:08:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-10-29 12:45:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-10-29 12:45:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-11-06 09:31:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-11-06 09:31:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
